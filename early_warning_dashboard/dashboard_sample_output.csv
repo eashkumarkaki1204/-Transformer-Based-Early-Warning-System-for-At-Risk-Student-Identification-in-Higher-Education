@@ -1,0 +1,16 @@
+student_id,risk_score,risk_level,top_contributing_factors,recommended_action
+556788,0.995,High,"studied_credits, active_days, early_avg_score",Immediate tutor outreach recommended
+2321492,0.968,High,"early_avg_score, week_4_clicks, total_clicks",Immediate tutor outreach recommended
+605939,0.656,Medium,"studied_credits, total_clicks, week_4_clicks",Monitor engagement over next 2 weeks
+628722,0.538,Medium,"studied_credits, week_4_clicks, early_avg_score",Monitor engagement over next 2 weeks
+533091,0.528,Medium,"active_days, total_clicks, gender_enc",Monitor engagement over next 2 weeks
+307291,0.454,Medium,"early_num_submitted, early_avg_score, active_days",Monitor engagement over next 2 weeks
+286527,0.352,Medium,"early_avg_score, week_4_clicks, early_num_submitted",Monitor engagement over next 2 weeks
+680231,0.332,Medium,"week_4_clicks, highest_education_enc, week_2_clicks",Monitor engagement over next 2 weeks
+685705,0.287,Low,"early_avg_score, week_4_clicks, early_num_submitted",No action needed
+595769,0.282,Low,"week_4_clicks, active_days, studied_credits",No action needed
+540224,0.229,Low,"week_4_clicks, highest_education_enc, early_avg_score",No action needed
+588233,0.192,Low,"studied_credits, early_avg_score, early_num_submitted",No action needed
+626379,0.173,Low,"studied_credits, early_avg_score, early_num_submitted",No action needed
+682306,0.168,Low,"week_4_clicks, active_days, total_clicks",No action needed
+528351,0.067,Low,"early_avg_score, week_4_clicks, active_days",No action needed
